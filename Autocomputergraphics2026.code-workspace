@@ -2,6 +2,7 @@
   "folders": [
     { "path": "cube-v0" },
     { "path": "cube-v1" },
-    { "path": "cube-v2" }
+    { "path": "cube-v2" },
+    { "path": "cube-v2r1" }
   ]
 }
