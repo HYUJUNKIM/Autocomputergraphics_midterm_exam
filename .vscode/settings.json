@@ -3,6 +3,7 @@
         "${workspaceFolder}/cube-v0",
         "${workspaceFolder}/cube-v1",
         "${workspaceFolder}/cube-v2",
-        "${workspaceFolder}/cube-v2r1"
+        "${workspaceFolder}/cube-v2r1",
+        "${workspaceFolder}/cube-v3"
     ]
 }
